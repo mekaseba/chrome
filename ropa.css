@@ -40,3 +40,12 @@ a {
     padding: 10px 20px;
     font-size: large;
 }
+#save-btn {
+    background-color: #5f9341;
+    font-weight: bold;
+    color: white;
+    border: 1px solid #5f9341;
+    margin: 4px 0;
+    padding: 10px 20px;
+    font-size: large;
+}
